@@ -59,11 +59,11 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 CHANNEL 📍', url='https://t.me/NT_BOT_CHANNEL'),
+          InlineKeyboardButton('📍 GROUP 📍', url='https://t.me/redhatgroup'),
       ],
       [
-          InlineKeyboardButton('🧑‍💻 DEVELOPER 🧑‍💻', url='https://t.me/LISA_FAN_LK'),
-          InlineKeyboardButton('🤖 SOURCE 🤖', url='https://github.com/LISA-KOREA/URL-UPLOADER-BOT'),
+          InlineKeyboardButton('🧑‍💻 DEVELOPER 🧑‍💻', url='https://t.me/qashidevil'),
+          InlineKeyboardButton('🤖 WEBSITE 🤖', url='https://redhatworld.com'),
           ]
         ]
       )
